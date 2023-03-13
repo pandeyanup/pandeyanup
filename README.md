@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandeyanup&show_icons=true&theme=dark&title_color=6adbd9&hide_border=true&locale=en&layout=compact" alt="Anup" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandeyanup&show_icons=true&theme=dark&title_color=6adbd9&hide_border=true&locale=en&layout=compact" alt="Anup" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandeyanup&show_icons=true&theme=dark&title_color=6adbd9&hide_border=true&locale=en" alt="Anup" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandeyanup&" alt="Anup" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandeyanup&" alt="Anup" /></p> -->
