@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Anup.
 
-- 🌱 I’m currently learning JavaScript, Python and Flutter.
+- 🌱 I’m currently learning TypeScript, Rust and Python.
 - 😄 Pronouns: He/Him
 
 
